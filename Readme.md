@@ -1,8 +1,27 @@
 # Voronoi Diagram
 
-## Instructions
+### :gear: Instruction
 
-1. python -m venv .venv (creates a virtual env for ur code - now u can install matplotlib,numpy etc here without affecting it globally)
-2. .\.venv\Scripts\activate (Activate the virtual env - green (.venv) shows up in terminal)
-3. pip install -r requirements.txt
-4. python test.py (run ur python file)
+To create a virtual environment for code
+
+```bash
+  python -m venv .venv
+```
+
+To activate the virtual env
+
+```bash
+  .\.venv\Scripts\activate
+```
+
+To install several requirements
+
+```bash
+  pip install -r requirements.txt
+```
+
+To run python file
+
+```bash
+  python test.py
+```
